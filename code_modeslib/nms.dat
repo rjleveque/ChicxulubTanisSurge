@@ -1,0 +1,33 @@
+#time step
+1
+#number of time steps
+22100
+#source t0:
+500.0
+#source amplitude
+1.0e00
+#source frequency band (f1,f2,f3,f4):
+0.100E-2
+0.200E-2
+1.000E-1
+2.000E-1
+#index min, index max of overtones to be used (-1,-1 for all) 
+-1 -1
+#geocentric correction?
+T
+#component rotation
+T
+#S eigenfunction file prefix
+fct_premS
+#T eigenfunction file prefix
+fct_premT
+#  source force (T) or moment tensor (F)?
+F
+# output channel (1: displacement, 2: velocity 3: acceleration) (for a step function source in time)
+1
+#station response (yes=T, no=F).?. Yes implie to have response files ready
+F
+#tag homogenization: -1: none; 0: 0 order , 1: first order
+-1
+
+

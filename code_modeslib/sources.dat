@@ -1,0 +1,6 @@
+#number of events:
+	1
+# stacking them (.true.) or not (.false.):
+.false.
+#n name      Mrr,     Mtt,       Mpp,     Mrt,      Mrp,       Mtp,     dep,   lat,   phi    hdurat delay(s)
+01 00000000  3.98e+25  0.00e+00  0.00e+00  0.00e+00  0.00e+00  0.00e+00 10.00  21.24 -89.31  60.00   0.00
