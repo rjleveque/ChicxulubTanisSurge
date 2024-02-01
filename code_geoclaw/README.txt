@@ -1,5 +1,9 @@
 Code to run GeoClaw tsunami simulations, provided by Randy LeVeque
 
+GeoClaw is released as part of Clawpack:
+    Documentation: https://www.clawpack.org/
+    Archived code releases: https://doi.org/10.17605/osf.io/kmw6h
+
 Commit cc5634177 of the clawpack/geoclaw master branch was used for these
 simulations.   At the time done, the 1D GeoClaw code was not yet in the
 latest release v5.9.2 of GeoClaw, but should appear soon in v5.10.0, at
