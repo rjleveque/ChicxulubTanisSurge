@@ -10,7 +10,7 @@ Submitted to J. Geophys. Res.
 
 Also to appear on [EarthArxiv](https://eartharxiv.org/).
 
-The version tagged `submitted-revised-1` is available as a [Release](https://github.com/rjleveque/ChicxulubTanisSurge/releases) in this Github repository, and is also permanently archived on Zenodo with DOI [10.5281/zenodo.10606184](https://zenodo.org/doi/10.5281/zenodo.10606184).
+The version tagged `submitted_revised-1` is available as a [Release](https://github.com/rjleveque/ChicxulubTanisSurge/releases) in this Github repository, and is also permanently archived on Zenodo with DOI [10.5281/zenodo.10606184](https://zenodo.org/doi/10.5281/zenodo.10606184).
 
 
 ## Contents
